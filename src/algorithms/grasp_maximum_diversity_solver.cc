@@ -71,9 +71,11 @@ void GraspMaximumDiversitySolver::UpdateBest(Solution* current, Solution*& best)
   if (current_solution == nullptr) {
     throw std::invalid_argument("Current solution is not of type MaximumDiversitySolution.");
   }
-  if (best_solution == nullptr || current_solution->GetObjectiveValue() < best_solution->GetObjectiveValue()) {
+  if (best_solution == nullptr || current_solution->GetObjectiveValue() > best_solution->GetObjectiveValue()) {
     delete best;
     best = new MaximumDiversitySolution(*current_solution);
+  } else {
+    delete current_solution;
   }
 }
 
@@ -107,7 +109,7 @@ std::vector<int> GraspMaximumDiversitySolver::GetSortedElementsByDistanceOfCurre
   }
   std::sort(elements_with_distance.begin(), elements_with_distance.end(),
             [](const std::pair<int, double>& a, const std::pair<int, double>& b) {
-              return a.second < b.second;
+              return a.second > b.second;
             });
   std::vector<int> elements_by_distance;
   for (const auto& pair : elements_with_distance) {

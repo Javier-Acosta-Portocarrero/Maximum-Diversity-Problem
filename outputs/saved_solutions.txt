@@ -1,0 +1,3112 @@
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: bnb-lowest
+Execution: 1
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 1 - Element 8 | distance: 7.955784
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 27 | distance: 9.331372
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 27 | distance: 6.062384
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 1
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: greedy
+Execution: 1
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 10.387645
+Objective from scratch: 10.387645
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 7.390296
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 3.987855
+  Element 18 | coordinates: 7.930000 7.110000 | contribution: 4.399230
+  Element 24 | coordinates: 7.260000 7.450000 | contribution: 4.997909
+
+Pair distances:
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 18 | distance: 2.659060
+  Element 8 - Element 24 | distance: 2.989398
+  Element 22 - Element 18 | distance: 0.988838
+  Element 22 - Element 24 | distance: 1.257179
+  Element 18 - Element 24 | distance: 0.751332
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: greedy
+Execution: 1
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 10.387645
+Objective from scratch: 10.387645
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 7.390296
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 3.987855
+  Element 18 | coordinates: 7.930000 7.110000 | contribution: 4.399230
+  Element 24 | coordinates: 7.260000 7.450000 | contribution: 4.997909
+
+Pair distances:
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 18 | distance: 2.659060
+  Element 8 - Element 24 | distance: 2.989398
+  Element 22 - Element 18 | distance: 0.988838
+  Element 22 - Element 24 | distance: 1.257179
+  Element 18 - Element 24 | distance: 0.751332
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: greedy
+Execution: 1
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 10.387645
+Objective from scratch: 10.387645
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 7.390296
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 3.987855
+  Element 18 | coordinates: 7.930000 7.110000 | contribution: 4.399230
+  Element 24 | coordinates: 7.260000 7.450000 | contribution: 4.997909
+
+Pair distances:
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 18 | distance: 2.659060
+  Element 8 - Element 24 | distance: 2.989398
+  Element 22 - Element 18 | distance: 0.988838
+  Element 22 - Element 24 | distance: 1.257179
+  Element 18 - Element 24 | distance: 0.751332
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 3
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 1 | distance: 9.331372
+  Element 10 - Element 1 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 1 | distance: 9.331372
+  Element 10 - Element 1 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 1 | distance: 9.331372
+  Element 10 - Element 1 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 27 | distance: 6.062384
+  Element 1 - Element 27 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 27 | distance: 6.062384
+  Element 1 - Element 27 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 27 | distance: 6.062384
+  Element 1 - Element 27 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 27 | distance: 9.331372
+  Element 10 - Element 27 | distance: 6.062384
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 27 | distance: 9.331372
+  Element 10 - Element 27 | distance: 6.062384
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 27 | distance: 9.331372
+  Element 10 - Element 27 | distance: 6.062384
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 27 | distance: 6.062384
+  Element 1 - Element 27 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 27 | distance: 6.062384
+  Element 1 - Element 27 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 27 | distance: 6.062384
+  Element 1 - Element 27 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 10 - Element 27 | distance: 6.062384
+  Element 10 - Element 1 | distance: 10.110045
+  Element 27 - Element 1 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+
+Pair distances:
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 10 - Element 27 | distance: 6.062384
+  Element 10 - Element 1 | distance: 10.110045
+  Element 27 - Element 1 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 52.771171
+Objective from scratch: 52.771171
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.267371
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.050900
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 27.397200
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.826872
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 1 - Element 10 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 47.825735
+Objective from scratch: 47.825735
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 22.715711
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 27.366039
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 24.845200
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 20.724520
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 0 | distance: 3.855230
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 0 | distance: 8.220608
+  Element 1 - Element 0 | distance: 8.648682
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 48.269567
+Objective from scratch: 48.269567
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 25.281198
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 24.463063
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.962805
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 22.832069
+
+Pair distances:
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 14 | distance: 6.916083
+  Element 20 - Element 10 | distance: 7.072383
+  Element 20 - Element 14 | distance: 6.680007
+  Element 10 - Element 14 | distance: 9.235979
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 48.269567
+Objective from scratch: 48.269567
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 25.281198
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 24.463063
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 23.962805
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 22.832069
+
+Pair distances:
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 14 | distance: 6.916083
+  Element 20 - Element 10 | distance: 7.072383
+  Element 20 - Element 14 | distance: 6.680007
+  Element 10 - Element 14 | distance: 9.235979
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 46.332957
+Objective from scratch: 46.332957
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.666952
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.558516
+  Element 11 | coordinates: 2.070000 6.840000 | contribution: 17.388658
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 20.051790
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 11 | distance: 8.054024
+  Element 8 - Element 1 | distance: 7.955784
+  Element 27 - Element 11 | distance: 6.570000
+  Element 27 - Element 1 | distance: 9.331372
+  Element 11 - Element 1 | distance: 2.764634
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 46.332957
+Objective from scratch: 46.332957
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.666952
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 27.558516
+  Element 11 | coordinates: 2.070000 6.840000 | contribution: 17.388658
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 20.051790
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 11 | distance: 8.054024
+  Element 8 - Element 1 | distance: 7.955784
+  Element 27 - Element 11 | distance: 6.570000
+  Element 27 - Element 1 | distance: 9.331372
+  Element 11 - Element 1 | distance: 2.764634
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 49.532515
+Objective from scratch: 49.532515
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 30.427090
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 24.298576
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 23.751148
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 20.588215
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 12 | distance: 10.814162
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 12 | distance: 3.310060
+  Element 1 - Element 12 | distance: 6.463993
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 49.532515
+Objective from scratch: 49.532515
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 30.427090
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 24.298576
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 23.751148
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 20.588215
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 12 | distance: 10.814162
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 12 | distance: 3.310060
+  Element 1 - Element 12 | distance: 6.463993
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 49.144306
+Objective from scratch: 49.144306
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 27.073703
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 23.648429
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 24.602750
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 22.963729
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 10 | distance: 7.654443
+  Element 29 - Element 17 | distance: 6.761316
+  Element 29 - Element 10 | distance: 5.982416
+  Element 17 - Element 10 | distance: 9.326870
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 4
+n: 30
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 46.088144
+Objective from scratch: 46.088144
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 25.581222
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 23.002160
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 21.876048
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 21.716858
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 17 | distance: 8.514564
+  Element 12 - Element 4 | distance: 7.304629
+  Element 12 - Element 17 | distance: 4.883370
+  Element 4 - Element 17 | distance: 8.318924
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 193.210959
+Objective from scratch: 193.210959
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 58.072627
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 44.155926
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 52.270242
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 45.202758
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 49.553335
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 43.909281
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 48.997893
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 44.259857
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 29 | distance: 10.904696
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 17 | distance: 4.883370
+  Element 12 - Element 1 | distance: 6.463993
+  Element 12 - Element 13 | distance: 3.026946
+  Element 12 - Element 22 | distance: 9.074189
+  Element 12 - Element 29 | distance: 2.342413
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 13 | distance: 5.183223
+  Element 10 - Element 22 | distance: 6.462391
+  Element 10 - Element 29 | distance: 5.982416
+  Element 17 - Element 1 | distance: 1.603652
+  Element 17 - Element 13 | distance: 7.082125
+  Element 17 - Element 22 | distance: 7.030861
+  Element 17 - Element 29 | distance: 6.761316
+  Element 1 - Element 13 | distance: 8.489994
+  Element 1 - Element 22 | distance: 6.689133
+  Element 1 - Element 29 | distance: 8.240734
+  Element 13 - Element 22 | distance: 8.805527
+  Element 13 - Element 29 | distance: 0.834326
+  Element 22 - Element 29 | distance: 9.193955
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 189.729335
+Objective from scratch: 189.729335
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 58.380646
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 44.505471
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 47.093360
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 48.786894
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 53.228574
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 41.318081
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 43.093953
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 43.051690
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 25 | distance: 10.567729
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 29 | distance: 10.904696
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 1 | distance: 6.463993
+  Element 12 - Element 25 | distance: 1.994242
+  Element 12 - Element 4 | distance: 7.304629
+  Element 12 - Element 29 | distance: 2.342413
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 25 | distance: 5.967546
+  Element 10 - Element 4 | distance: 1.470850
+  Element 10 - Element 29 | distance: 5.982416
+  Element 9 - Element 1 | distance: 3.740334
+  Element 9 - Element 25 | distance: 8.522353
+  Element 9 - Element 4 | distance: 6.942082
+  Element 9 - Element 29 | distance: 8.958404
+  Element 1 - Element 25 | distance: 7.771087
+  Element 1 - Element 4 | distance: 8.946597
+  Element 1 - Element 29 | distance: 8.240734
+  Element 25 - Element 4 | distance: 6.024699
+  Element 25 - Element 29 | distance: 0.470425
+  Element 4 - Element 29 | distance: 6.152601
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 189.934144
+Objective from scratch: 189.934144
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 52.787024
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 50.539293
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 51.473058
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 43.052528
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 48.211589
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 46.318134
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 44.808359
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 42.678303
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 9 | distance: 4.231335
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 14 | distance: 7.942304
+  Element 29 - Element 20 | distance: 1.769548
+  Element 29 - Element 0 | distance: 8.220608
+  Element 29 - Element 17 | distance: 6.761316
+  Element 29 - Element 9 | distance: 8.958404
+  Element 10 - Element 14 | distance: 9.235979
+  Element 10 - Element 20 | distance: 7.072383
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 9 | distance: 8.357206
+  Element 14 - Element 20 | distance: 6.680007
+  Element 14 - Element 0 | distance: 7.597644
+  Element 14 - Element 17 | distance: 1.944016
+  Element 14 - Element 9 | distance: 2.736494
+  Element 20 - Element 0 | distance: 8.583874
+  Element 20 - Element 17 | distance: 5.259743
+  Element 20 - Element 9 | distance: 8.135361
+  Element 0 - Element 17 | distance: 8.479682
+  Element 0 - Element 9 | distance: 5.737334
+  Element 17 - Element 9 | distance: 4.522168
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 189.934144
+Objective from scratch: 189.934144
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 52.787024
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 50.539293
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 51.473058
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 43.052528
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 48.211589
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 46.318134
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 44.808359
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 42.678303
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 9 | distance: 4.231335
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 14 | distance: 7.942304
+  Element 29 - Element 20 | distance: 1.769548
+  Element 29 - Element 0 | distance: 8.220608
+  Element 29 - Element 17 | distance: 6.761316
+  Element 29 - Element 9 | distance: 8.958404
+  Element 10 - Element 14 | distance: 9.235979
+  Element 10 - Element 20 | distance: 7.072383
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 9 | distance: 8.357206
+  Element 14 - Element 20 | distance: 6.680007
+  Element 14 - Element 0 | distance: 7.597644
+  Element 14 - Element 17 | distance: 1.944016
+  Element 14 - Element 9 | distance: 2.736494
+  Element 20 - Element 0 | distance: 8.583874
+  Element 20 - Element 17 | distance: 5.259743
+  Element 20 - Element 9 | distance: 8.135361
+  Element 0 - Element 17 | distance: 8.479682
+  Element 0 - Element 9 | distance: 5.737334
+  Element 17 - Element 9 | distance: 4.522168
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 188.170882
+Objective from scratch: 188.170882
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 60.520379
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 45.350155
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 49.343364
+  Element 7 | coordinates: 6.800000 2.940000 | contribution: 39.412886
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 46.785686
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 43.094358
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 50.760182
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 41.074754
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 7 | distance: 6.744034
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 29 | distance: 10.904696
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 7 | distance: 5.431556
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 29 | distance: 1.091146
+  Element 17 - Element 7 | distance: 7.483809
+  Element 17 - Element 10 | distance: 9.326870
+  Element 17 - Element 12 | distance: 4.883370
+  Element 17 - Element 9 | distance: 4.522168
+  Element 17 - Element 29 | distance: 6.761316
+  Element 7 - Element 10 | distance: 1.851513
+  Element 7 - Element 12 | distance: 6.158320
+  Element 7 - Element 9 | distance: 6.709292
+  Element 7 - Element 29 | distance: 5.034362
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 29 | distance: 5.982416
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 29 | distance: 2.342413
+  Element 9 - Element 29 | distance: 8.958404
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 191.465632
+Objective from scratch: 191.465632
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.479245
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 44.352538
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 50.812332
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 47.678331
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 50.988134
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 44.778057
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 45.746674
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 45.095955
+
+Pair distances:
+  Element 8 - Element 25 | distance: 10.567729
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 9 | distance: 4.231335
+  Element 25 - Element 10 | distance: 5.967546
+  Element 25 - Element 14 | distance: 7.473185
+  Element 25 - Element 27 | distance: 1.560288
+  Element 25 - Element 22 | distance: 8.847152
+  Element 25 - Element 20 | distance: 1.414284
+  Element 25 - Element 9 | distance: 8.522353
+  Element 10 - Element 14 | distance: 9.235979
+  Element 10 - Element 27 | distance: 6.062384
+  Element 10 - Element 22 | distance: 6.462391
+  Element 10 - Element 20 | distance: 7.072383
+  Element 10 - Element 9 | distance: 8.357206
+  Element 14 - Element 27 | distance: 9.021086
+  Element 14 - Element 22 | distance: 5.615496
+  Element 14 - Element 20 | distance: 6.680007
+  Element 14 - Element 9 | distance: 2.736494
+  Element 27 - Element 22 | distance: 9.975620
+  Element 27 - Element 20 | distance: 2.765014
+  Element 27 - Element 9 | distance: 9.946597
+  Element 22 - Element 20 | distance: 8.968952
+  Element 22 - Element 9 | distance: 3.166607
+  Element 20 - Element 9 | distance: 8.135361
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 193.839894
+Objective from scratch: 193.839894
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 59.795276
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 47.261045
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 48.458268
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 48.707179
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 43.519305
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 49.485434
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 42.074238
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 48.379043
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 10 | distance: 7.654443
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 20 | distance: 2.765014
+  Element 27 - Element 14 | distance: 9.021086
+  Element 27 - Element 13 | distance: 1.170342
+  Element 27 - Element 10 | distance: 6.062384
+  Element 17 - Element 0 | distance: 8.479682
+  Element 17 - Element 20 | distance: 5.259743
+  Element 17 - Element 14 | distance: 1.944016
+  Element 17 - Element 13 | distance: 7.082125
+  Element 17 - Element 10 | distance: 9.326870
+  Element 0 - Element 20 | distance: 8.583874
+  Element 0 - Element 14 | distance: 7.597644
+  Element 0 - Element 13 | distance: 7.613179
+  Element 0 - Element 10 | distance: 3.843761
+  Element 20 - Element 14 | distance: 6.680007
+  Element 20 - Element 13 | distance: 2.447611
+  Element 20 - Element 10 | distance: 7.072383
+  Element 14 - Element 13 | distance: 8.090618
+  Element 14 - Element 10 | distance: 9.235979
+  Element 13 - Element 10 | distance: 5.183223
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 195.418840
+Objective from scratch: 195.418840
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 51.153464
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 50.913374
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 56.611370
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 46.739556
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 50.136682
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 42.885693
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 48.030630
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 44.366911
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 0 | distance: 3.855230
+  Element 12 - Element 27 | distance: 3.310060
+  Element 12 - Element 14 | distance: 6.409251
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 22 | distance: 9.074189
+  Element 12 - Element 17 | distance: 4.883370
+  Element 12 - Element 0 | distance: 8.871488
+  Element 27 - Element 14 | distance: 9.021086
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 22 | distance: 9.975620
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 0 | distance: 8.733808
+  Element 14 - Element 10 | distance: 9.235979
+  Element 14 - Element 22 | distance: 5.615496
+  Element 14 - Element 17 | distance: 1.944016
+  Element 14 - Element 0 | distance: 7.597644
+  Element 10 - Element 22 | distance: 6.462391
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 0 | distance: 3.843761
+  Element 22 - Element 17 | distance: 7.030861
+  Element 22 - Element 0 | distance: 2.985297
+  Element 17 - Element 0 | distance: 8.479682
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 199.845950
+Objective from scratch: 199.845950
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 59.757542
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 44.724318
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 48.200726
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 45.762222
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 49.771222
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 49.207000
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 50.439882
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 51.828988
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 29 - Element 14 | distance: 7.942304
+  Element 29 - Element 12 | distance: 2.342413
+  Element 29 - Element 0 | distance: 8.220608
+  Element 29 - Element 27 | distance: 1.091146
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 1 | distance: 8.240734
+  Element 14 - Element 12 | distance: 6.409251
+  Element 14 - Element 0 | distance: 7.597644
+  Element 14 - Element 27 | distance: 9.021086
+  Element 14 - Element 10 | distance: 9.235979
+  Element 14 - Element 1 | distance: 1.078378
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 27 | distance: 3.310060
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 1 | distance: 6.463993
+  Element 0 - Element 27 | distance: 8.733808
+  Element 0 - Element 10 | distance: 3.843761
+  Element 0 - Element 1 | distance: 8.648682
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 1 | distance: 9.331372
+  Element 10 - Element 1 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 199.845950
+Objective from scratch: 199.845950
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 59.757542
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 44.724318
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 48.200726
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 45.762222
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 49.771222
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 49.207000
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 50.439882
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 51.828988
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 29 - Element 14 | distance: 7.942304
+  Element 29 - Element 12 | distance: 2.342413
+  Element 29 - Element 0 | distance: 8.220608
+  Element 29 - Element 27 | distance: 1.091146
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 1 | distance: 8.240734
+  Element 14 - Element 12 | distance: 6.409251
+  Element 14 - Element 0 | distance: 7.597644
+  Element 14 - Element 27 | distance: 9.021086
+  Element 14 - Element 10 | distance: 9.235979
+  Element 14 - Element 1 | distance: 1.078378
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 27 | distance: 3.310060
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 1 | distance: 6.463993
+  Element 0 - Element 27 | distance: 8.733808
+  Element 0 - Element 10 | distance: 3.843761
+  Element 0 - Element 1 | distance: 8.648682
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 1 | distance: 9.331372
+  Element 10 - Element 1 | distance: 10.110045
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 198.845574
+Objective from scratch: 198.845574
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 54.436230
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 48.681912
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 49.160956
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 51.322255
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 55.142861
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 46.593955
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 45.057328
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.295652
+
+Pair distances:
+  Element 8 - Element 25 | distance: 10.567729
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 0 | distance: 3.855230
+  Element 25 - Element 1 | distance: 7.771087
+  Element 25 - Element 10 | distance: 5.967546
+  Element 25 - Element 27 | distance: 1.560288
+  Element 25 - Element 17 | distance: 6.295753
+  Element 25 - Element 9 | distance: 8.522353
+  Element 25 - Element 0 | distance: 7.997156
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 27 | distance: 9.331372
+  Element 1 - Element 17 | distance: 1.603652
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 0 | distance: 8.648682
+  Element 10 - Element 27 | distance: 6.062384
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 0 | distance: 3.843761
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 0 | distance: 8.733808
+  Element 17 - Element 9 | distance: 4.522168
+  Element 17 - Element 0 | distance: 8.479682
+  Element 9 - Element 0 | distance: 5.737334
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 5
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 197.561069
+Objective from scratch: 197.561069
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 54.622436
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 45.230397
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 52.061748
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 51.843466
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 45.956930
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 52.164869
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 47.242679
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 45.999612
+
+Pair distances:
+  Element 8 - Element 25 | distance: 10.567729
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 25 - Element 1 | distance: 7.771087
+  Element 25 - Element 27 | distance: 1.560288
+  Element 25 - Element 22 | distance: 8.847152
+  Element 25 - Element 10 | distance: 5.967546
+  Element 25 - Element 12 | distance: 1.994242
+  Element 25 - Element 9 | distance: 8.522353
+  Element 1 - Element 27 | distance: 9.331372
+  Element 1 - Element 22 | distance: 6.689133
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 9 | distance: 3.740334
+  Element 27 - Element 22 | distance: 9.975620
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 9 | distance: 9.946597
+  Element 22 - Element 10 | distance: 6.462391
+  Element 22 - Element 12 | distance: 9.074189
+  Element 22 - Element 9 | distance: 3.166607
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 12 - Element 9 | distance: 8.035179
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 188.157743
+Objective from scratch: 188.157743
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.433957
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.615745
+  Element 11 | coordinates: 2.070000 6.840000 | contribution: 41.168564
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 50.511601
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 49.964094
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 42.678596
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 46.932408
+  Element 15 | coordinates: 4.900000 8.570000 | contribution: 42.010521
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 11 | distance: 8.054024
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 15 | distance: 4.955371
+  Element 29 - Element 11 | distance: 5.480228
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 27 | distance: 1.091146
+  Element 29 - Element 4 | distance: 6.152601
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 15 | distance: 7.763923
+  Element 11 - Element 1 | distance: 2.764634
+  Element 11 - Element 27 | distance: 6.570000
+  Element 11 - Element 4 | distance: 7.022820
+  Element 11 - Element 10 | distance: 7.959962
+  Element 11 - Element 15 | distance: 3.316896
+  Element 1 - Element 27 | distance: 9.331372
+  Element 1 - Element 4 | distance: 8.946597
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 15 | distance: 3.162436
+  Element 27 - Element 4 | distance: 6.482847
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 15 | distance: 8.769202
+  Element 4 - Element 10 | distance: 1.470850
+  Element 4 - Element 15 | distance: 6.350386
+  Element 10 - Element 15 | distance: 7.692308
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 181.004121
+Objective from scratch: 181.004121
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.510033
+  Element 6 | coordinates: 3.810000 2.500000 | contribution: 39.114688
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 40.703314
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 48.087412
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 43.093853
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.482357
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 44.300924
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 43.715660
+
+Pair distances:
+  Element 8 - Element 6 | distance: 8.836996
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 9 | distance: 4.231335
+  Element 6 - Element 17 | distance: 6.099320
+  Element 6 - Element 4 | distance: 4.170084
+  Element 6 - Element 12 | distance: 3.250108
+  Element 6 - Element 29 | distance: 2.122192
+  Element 6 - Element 1 | distance: 7.349830
+  Element 6 - Element 9 | distance: 7.286158
+  Element 17 - Element 4 | distance: 8.318924
+  Element 17 - Element 12 | distance: 4.883370
+  Element 17 - Element 29 | distance: 6.761316
+  Element 17 - Element 1 | distance: 1.603652
+  Element 17 - Element 9 | distance: 4.522168
+  Element 4 - Element 12 | distance: 7.304629
+  Element 4 - Element 29 | distance: 6.152601
+  Element 4 - Element 1 | distance: 8.946597
+  Element 4 - Element 9 | distance: 6.942082
+  Element 12 - Element 29 | distance: 2.342413
+  Element 12 - Element 1 | distance: 6.463993
+  Element 12 - Element 9 | distance: 8.035179
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 9 | distance: 8.958404
+  Element 1 - Element 9 | distance: 3.740334
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 181.004121
+Objective from scratch: 181.004121
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.510033
+  Element 6 | coordinates: 3.810000 2.500000 | contribution: 39.114688
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 40.703314
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 48.087412
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 43.093853
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.482357
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 44.300924
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 43.715660
+
+Pair distances:
+  Element 8 - Element 6 | distance: 8.836996
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 9 | distance: 4.231335
+  Element 6 - Element 17 | distance: 6.099320
+  Element 6 - Element 4 | distance: 4.170084
+  Element 6 - Element 12 | distance: 3.250108
+  Element 6 - Element 29 | distance: 2.122192
+  Element 6 - Element 1 | distance: 7.349830
+  Element 6 - Element 9 | distance: 7.286158
+  Element 17 - Element 4 | distance: 8.318924
+  Element 17 - Element 12 | distance: 4.883370
+  Element 17 - Element 29 | distance: 6.761316
+  Element 17 - Element 1 | distance: 1.603652
+  Element 17 - Element 9 | distance: 4.522168
+  Element 4 - Element 12 | distance: 7.304629
+  Element 4 - Element 29 | distance: 6.152601
+  Element 4 - Element 1 | distance: 8.946597
+  Element 4 - Element 9 | distance: 6.942082
+  Element 12 - Element 29 | distance: 2.342413
+  Element 12 - Element 1 | distance: 6.463993
+  Element 12 - Element 9 | distance: 8.035179
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 9 | distance: 8.958404
+  Element 1 - Element 9 | distance: 3.740334
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 171.175254
+Objective from scratch: 171.175254
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 56.456741
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 48.890533
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 41.732480
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 39.911456
+  Element 18 | coordinates: 7.930000 7.110000 | contribution: 42.113437
+  Element 7 | coordinates: 6.800000 2.940000 | contribution: 35.780192
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 39.314961
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 38.150709
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 18 | distance: 2.659060
+  Element 8 - Element 7 | distance: 6.744034
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 25 | distance: 10.567729
+  Element 17 - Element 12 | distance: 4.883370
+  Element 17 - Element 29 | distance: 6.761316
+  Element 17 - Element 18 | distance: 6.632797
+  Element 17 - Element 7 | distance: 7.483809
+  Element 17 - Element 4 | distance: 8.318924
+  Element 17 - Element 25 | distance: 6.295753
+  Element 12 - Element 29 | distance: 2.342413
+  Element 12 - Element 18 | distance: 8.235345
+  Element 12 - Element 7 | distance: 6.158320
+  Element 12 - Element 4 | distance: 7.304629
+  Element 12 - Element 25 | distance: 1.994242
+  Element 29 - Element 18 | distance: 8.245641
+  Element 29 - Element 7 | distance: 5.034362
+  Element 29 - Element 4 | distance: 6.152601
+  Element 29 - Element 25 | distance: 0.470425
+  Element 18 - Element 7 | distance: 4.320394
+  Element 18 - Element 4 | distance: 4.110049
+  Element 18 - Element 25 | distance: 7.910152
+  Element 7 - Element 4 | distance: 1.151564
+  Element 7 - Element 25 | distance: 4.887709
+  Element 4 - Element 25 | distance: 6.024699
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 190.329755
+Objective from scratch: 190.329755
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 60.991919
+  Element 26 | coordinates: 2.190000 6.030000 | contribution: 37.899975
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 42.370500
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 42.120760
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 52.267040
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 48.097683
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 47.239149
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 49.672485
+
+Pair distances:
+  Element 8 - Element 26 | distance: 8.191911
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 26 - Element 12 | distance: 3.169306
+  Element 26 - Element 13 | distance: 4.911873
+  Element 26 - Element 10 | distance: 7.348884
+  Element 26 - Element 9 | distance: 4.935788
+  Element 26 - Element 27 | distance: 5.761250
+  Element 26 - Element 1 | distance: 3.580964
+  Element 12 - Element 13 | distance: 3.026946
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 27 | distance: 3.310060
+  Element 12 - Element 1 | distance: 6.463993
+  Element 13 - Element 10 | distance: 5.183223
+  Element 13 - Element 9 | distance: 8.851243
+  Element 13 - Element 27 | distance: 1.170342
+  Element 13 - Element 1 | distance: 8.489994
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 27 | distance: 6.062384
+  Element 10 - Element 1 | distance: 10.110045
+  Element 9 - Element 27 | distance: 9.946597
+  Element 9 - Element 1 | distance: 3.740334
+  Element 27 - Element 1 | distance: 9.331372
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 191.364413
+Objective from scratch: 191.364413
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 63.232242
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 41.971763
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 53.251928
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 46.880197
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 47.957146
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 40.301023
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 43.814157
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 45.320369
+
+Pair distances:
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 27 | distance: 11.657144
+  Element 20 - Element 1 | distance: 6.814485
+  Element 20 - Element 10 | distance: 7.072383
+  Element 20 - Element 17 | distance: 5.259743
+  Element 20 - Element 13 | distance: 2.447611
+  Element 20 - Element 4 | distance: 6.901855
+  Element 20 - Element 27 | distance: 2.765014
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 17 | distance: 1.603652
+  Element 1 - Element 13 | distance: 8.489994
+  Element 1 - Element 4 | distance: 8.946597
+  Element 1 - Element 27 | distance: 9.331372
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 13 | distance: 5.183223
+  Element 10 - Element 4 | distance: 1.470850
+  Element 10 - Element 27 | distance: 6.062384
+  Element 17 - Element 13 | distance: 7.082125
+  Element 17 - Element 4 | distance: 8.318924
+  Element 17 - Element 27 | distance: 7.851267
+  Element 13 - Element 4 | distance: 5.440588
+  Element 13 - Element 27 | distance: 1.170342
+  Element 4 - Element 27 | distance: 6.482847
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 178.467422
+Objective from scratch: 178.467422
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 59.109603
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 43.832390
+  Element 19 | coordinates: 5.730000 2.290000 | contribution: 39.979784
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 40.309349
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 44.843150
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 40.083653
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 45.504657
+  Element 24 | coordinates: 7.260000 7.450000 | contribution: 43.272258
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 19 | distance: 7.834603
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 24 | distance: 2.989398
+  Element 17 - Element 19 | distance: 7.256004
+  Element 17 - Element 20 | distance: 5.259743
+  Element 17 - Element 14 | distance: 1.944016
+  Element 17 - Element 13 | distance: 7.082125
+  Element 17 - Element 27 | distance: 7.851267
+  Element 17 - Element 24 | distance: 5.924669
+  Element 19 - Element 20 | distance: 4.712208
+  Element 19 - Element 14 | distance: 7.502106
+  Element 19 - Element 13 | distance: 3.112379
+  Element 19 - Element 27 | distance: 4.180431
+  Element 19 - Element 24 | distance: 5.382054
+  Element 20 - Element 14 | distance: 6.680007
+  Element 20 - Element 13 | distance: 2.447611
+  Element 20 - Element 27 | distance: 2.765014
+  Element 20 - Element 24 | distance: 7.734093
+  Element 14 - Element 13 | distance: 8.090618
+  Element 14 - Element 27 | distance: 9.021086
+  Element 14 - Element 24 | distance: 4.689232
+  Element 13 - Element 27 | distance: 1.170342
+  Element 13 - Element 24 | distance: 7.693439
+  Element 27 - Element 24 | distance: 8.859374
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 185.993552
+Objective from scratch: 185.993552
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 56.751655
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 48.775950
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 44.295121
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 43.641985
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 44.947709
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 47.379979
+  Element 16 | coordinates: 7.010000 3.440000 | contribution: 42.998713
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 43.195992
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 16 | distance: 6.203169
+  Element 8 - Element 12 | distance: 10.814162
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 29 | distance: 1.091146
+  Element 27 - Element 14 | distance: 9.021086
+  Element 27 - Element 22 | distance: 9.975620
+  Element 27 - Element 16 | distance: 5.869625
+  Element 27 - Element 12 | distance: 3.310060
+  Element 17 - Element 29 | distance: 6.761316
+  Element 17 - Element 14 | distance: 1.944016
+  Element 17 - Element 22 | distance: 7.030861
+  Element 17 - Element 16 | distance: 7.309726
+  Element 17 - Element 12 | distance: 4.883370
+  Element 29 - Element 14 | distance: 7.942304
+  Element 29 - Element 22 | distance: 9.193955
+  Element 29 - Element 16 | distance: 5.406154
+  Element 29 - Element 12 | distance: 2.342413
+  Element 14 - Element 22 | distance: 5.615496
+  Element 14 - Element 16 | distance: 7.099472
+  Element 14 - Element 12 | distance: 6.409251
+  Element 22 - Element 16 | distance: 4.748021
+  Element 22 - Element 12 | distance: 9.074189
+  Element 16 - Element 12 | distance: 6.362547
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 173.915847
+Objective from scratch: 173.915847
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.182100
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 46.861278
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 45.241711
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 45.454197
+  Element 28 | coordinates: 3.990000 7.850000 | contribution: 34.576727
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 41.394909
+  Element 7 | coordinates: 6.800000 2.940000 | contribution: 40.734155
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 40.386617
+
+Pair distances:
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 28 | distance: 5.954377
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 7 | distance: 6.744034
+  Element 8 - Element 14 | distance: 6.916083
+  Element 13 - Element 20 | distance: 2.447611
+  Element 13 - Element 0 | distance: 7.613179
+  Element 13 - Element 28 | distance: 6.789823
+  Element 13 - Element 17 | distance: 7.082125
+  Element 13 - Element 7 | distance: 4.350782
+  Element 13 - Element 14 | distance: 8.090618
+  Element 20 - Element 0 | distance: 8.583874
+  Element 20 - Element 28 | distance: 5.808933
+  Element 20 - Element 17 | distance: 5.259743
+  Element 20 - Element 7 | distance: 5.750869
+  Element 20 - Element 14 | distance: 6.680007
+  Element 0 - Element 28 | distance: 5.979381
+  Element 0 - Element 17 | distance: 8.479682
+  Element 0 - Element 7 | distance: 3.345206
+  Element 0 - Element 14 | distance: 7.597644
+  Element 28 - Element 17 | distance: 2.630969
+  Element 28 - Element 7 | distance: 5.657225
+  Element 28 - Element 14 | distance: 1.756018
+  Element 17 - Element 7 | distance: 7.483809
+  Element 17 - Element 14 | distance: 1.944016
+  Element 7 - Element 14 | distance: 7.402229
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 186.496796
+Objective from scratch: 186.496796
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.576688
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 46.135026
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 42.956722
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 44.863454
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 46.984586
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 52.950622
+  Element 19 | coordinates: 5.730000 2.290000 | contribution: 42.335879
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 43.190616
+
+Pair distances:
+  Element 8 - Element 25 | distance: 10.567729
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 19 | distance: 7.834603
+  Element 8 - Element 14 | distance: 6.916083
+  Element 25 - Element 9 | distance: 8.522353
+  Element 25 - Element 17 | distance: 6.295753
+  Element 25 - Element 0 | distance: 7.997156
+  Element 25 - Element 27 | distance: 1.560288
+  Element 25 - Element 19 | distance: 3.718562
+  Element 25 - Element 14 | distance: 7.473185
+  Element 9 - Element 17 | distance: 4.522168
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 27 | distance: 9.946597
+  Element 9 - Element 19 | distance: 7.260441
+  Element 9 - Element 14 | distance: 2.736494
+  Element 17 - Element 0 | distance: 8.479682
+  Element 17 - Element 27 | distance: 7.851267
+  Element 17 - Element 19 | distance: 7.256004
+  Element 17 - Element 14 | distance: 1.944016
+  Element 0 - Element 27 | distance: 8.733808
+  Element 0 - Element 19 | distance: 4.583732
+  Element 0 - Element 14 | distance: 7.597644
+  Element 27 - Element 19 | distance: 4.180431
+  Element 27 - Element 14 | distance: 9.021086
+  Element 19 - Element 14 | distance: 7.502106
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 10
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 184.404013
+Objective from scratch: 184.404013
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 55.175482
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 46.466372
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 48.957854
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 51.385095
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 37.895722
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 44.749159
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 42.011882
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 42.166460
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 0 | distance: 3.855230
+  Element 12 - Element 27 | distance: 3.310060
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 4 | distance: 7.304629
+  Element 12 - Element 20 | distance: 0.580000
+  Element 12 - Element 10 | distance: 7.550854
+  Element 12 - Element 0 | distance: 8.871488
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 4 | distance: 6.482847
+  Element 27 - Element 20 | distance: 2.765014
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 0 | distance: 8.733808
+  Element 9 - Element 4 | distance: 6.942082
+  Element 9 - Element 20 | distance: 8.135361
+  Element 9 - Element 10 | distance: 8.357206
+  Element 9 - Element 0 | distance: 5.737334
+  Element 4 - Element 20 | distance: 6.901855
+  Element 4 - Element 10 | distance: 1.470850
+  Element 4 - Element 0 | distance: 2.540964
+  Element 20 - Element 10 | distance: 7.072383
+  Element 20 - Element 0 | distance: 8.583874
+  Element 10 - Element 0 | distance: 3.843761
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 171.979363
+Objective from scratch: 171.979363
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 49.546163
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 47.862552
+  Element 14 | coordinates: 2.930000 9.250000 | contribution: 37.792168
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 40.200889
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 37.239142
+  Element 23 | coordinates: 6.240000 6.590000 | contribution: 33.301620
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 46.166234
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 51.849958
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 14 | distance: 6.916083
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 23 | distance: 4.310093
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 29 | distance: 10.904696
+  Element 12 - Element 14 | distance: 6.409251
+  Element 12 - Element 17 | distance: 4.883370
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 23 | distance: 6.506689
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 29 | distance: 2.342413
+  Element 14 - Element 17 | distance: 1.944016
+  Element 14 - Element 9 | distance: 2.736494
+  Element 14 - Element 23 | distance: 4.246375
+  Element 14 - Element 0 | distance: 7.597644
+  Element 14 - Element 29 | distance: 7.942304
+  Element 17 - Element 9 | distance: 4.522168
+  Element 17 - Element 23 | distance: 5.095773
+  Element 17 - Element 0 | distance: 8.479682
+  Element 17 - Element 29 | distance: 6.761316
+  Element 9 - Element 23 | distance: 3.018228
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 29 | distance: 8.958404
+  Element 23 - Element 0 | distance: 3.404247
+  Element 23 - Element 29 | distance: 6.720216
+  Element 0 - Element 29 | distance: 8.220608
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 176.204819
+Objective from scratch: 176.204819
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 50.417386
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 51.195525
+  Element 11 | coordinates: 2.070000 6.840000 | contribution: 46.720956
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 41.853807
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 40.906838
+  Element 7 | coordinates: 6.800000 2.940000 | contribution: 34.541541
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 38.793820
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 47.979767
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 11 | distance: 8.054024
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 7 | distance: 6.744034
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 20 | distance: 10.710672
+  Element 27 - Element 11 | distance: 6.570000
+  Element 27 - Element 22 | distance: 9.975620
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 7 | distance: 5.431556
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 20 | distance: 2.765014
+  Element 11 - Element 22 | distance: 6.431835
+  Element 11 - Element 10 | distance: 7.959962
+  Element 11 - Element 7 | distance: 6.130489
+  Element 11 - Element 0 | distance: 7.446644
+  Element 11 - Element 20 | distance: 4.128002
+  Element 22 - Element 10 | distance: 6.462391
+  Element 22 - Element 7 | distance: 5.287873
+  Element 22 - Element 0 | distance: 2.985297
+  Element 22 - Element 20 | distance: 8.968952
+  Element 10 - Element 7 | distance: 1.851513
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 20 | distance: 7.072383
+  Element 7 - Element 0 | distance: 3.345206
+  Element 7 - Element 20 | distance: 5.750869
+  Element 0 - Element 20 | distance: 8.583874
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 166.823772
+Objective from scratch: 166.823772
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.241020
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 42.281566
+  Element 26 | coordinates: 2.190000 6.030000 | contribution: 38.129668
+  Element 16 | coordinates: 7.010000 3.440000 | contribution: 33.626171
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 42.001632
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 44.439191
+  Element 28 | coordinates: 3.990000 7.850000 | contribution: 39.327830
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 40.600467
+
+Pair distances:
+  Element 8 - Element 25 | distance: 10.567729
+  Element 8 - Element 26 | distance: 8.191911
+  Element 8 - Element 16 | distance: 6.203169
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 28 | distance: 5.954377
+  Element 8 - Element 0 | distance: 3.855230
+  Element 25 - Element 26 | distance: 4.202678
+  Element 25 - Element 16 | distance: 5.224270
+  Element 25 - Element 10 | distance: 5.967546
+  Element 25 - Element 12 | distance: 1.994242
+  Element 25 - Element 28 | distance: 6.327946
+  Element 25 - Element 0 | distance: 7.997156
+  Element 26 - Element 16 | distance: 5.471791
+  Element 26 - Element 10 | distance: 7.348884
+  Element 26 - Element 12 | distance: 3.169306
+  Element 26 - Element 28 | distance: 2.559766
+  Element 26 - Element 0 | distance: 7.185332
+  Element 16 - Element 10 | distance: 2.151325
+  Element 16 - Element 12 | distance: 6.362547
+  Element 16 - Element 28 | distance: 5.344951
+  Element 16 - Element 0 | distance: 2.868118
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 28 | distance: 7.484818
+  Element 10 - Element 0 | distance: 3.843761
+  Element 12 - Element 28 | distance: 5.676592
+  Element 12 - Element 0 | distance: 8.871488
+  Element 28 - Element 0 | distance: 5.979381
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 154.036158
+Objective from scratch: 154.036158
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 62.648903
+  Element 16 | coordinates: 7.010000 3.440000 | contribution: 37.780302
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 31.608144
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 36.821257
+  Element 26 | coordinates: 2.190000 6.030000 | contribution: 35.558561
+  Element 23 | coordinates: 6.240000 6.590000 | contribution: 38.788059
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 34.499419
+  Element 25 | coordinates: 2.040000 1.830000 | contribution: 30.367672
+
+Pair distances:
+  Element 8 - Element 16 | distance: 6.203169
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 26 | distance: 8.191911
+  Element 8 - Element 23 | distance: 4.310093
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 25 | distance: 10.567729
+  Element 16 - Element 29 | distance: 5.406154
+  Element 16 - Element 27 | distance: 5.869625
+  Element 16 - Element 26 | distance: 5.471791
+  Element 16 - Element 23 | distance: 3.242746
+  Element 16 - Element 12 | distance: 6.362547
+  Element 16 - Element 25 | distance: 5.224270
+  Element 29 - Element 27 | distance: 1.091146
+  Element 29 - Element 26 | distance: 4.673093
+  Element 29 - Element 23 | distance: 6.720216
+  Element 29 - Element 12 | distance: 2.342413
+  Element 29 - Element 25 | distance: 0.470425
+  Element 27 - Element 26 | distance: 5.761250
+  Element 27 - Element 23 | distance: 7.571744
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 25 | distance: 1.560288
+  Element 26 - Element 23 | distance: 4.088533
+  Element 26 - Element 12 | distance: 3.169306
+  Element 26 - Element 25 | distance: 4.202678
+  Element 23 - Element 12 | distance: 6.506689
+  Element 23 - Element 25 | distance: 6.348039
+  Element 12 - Element 25 | distance: 1.994242
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 160.642774
+Objective from scratch: 160.642774
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.824593
+  Element 21 | coordinates: 4.590000 3.020000 | contribution: 30.704877
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 42.860784
+  Element 19 | coordinates: 5.730000 2.290000 | contribution: 33.770589
+  Element 15 | coordinates: 4.900000 8.570000 | contribution: 40.357273
+  Element 11 | coordinates: 2.070000 6.840000 | contribution: 39.091873
+  Element 13 | coordinates: 2.830000 1.160000 | contribution: 39.645330
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 41.030230
+
+Pair distances:
+  Element 8 - Element 21 | distance: 7.927553
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 19 | distance: 7.834603
+  Element 8 - Element 15 | distance: 4.955371
+  Element 8 - Element 11 | distance: 8.054024
+  Element 8 - Element 13 | distance: 10.487140
+  Element 8 - Element 20 | distance: 10.710672
+  Element 21 - Element 0 | distance: 5.183368
+  Element 21 - Element 19 | distance: 1.353699
+  Element 21 - Element 15 | distance: 5.558651
+  Element 21 - Element 11 | distance: 4.576330
+  Element 21 - Element 13 | distance: 2.560703
+  Element 21 - Element 20 | distance: 3.544573
+  Element 0 - Element 19 | distance: 4.583732
+  Element 0 - Element 15 | distance: 5.594756
+  Element 0 - Element 11 | distance: 7.446644
+  Element 0 - Element 13 | distance: 7.613179
+  Element 0 - Element 20 | distance: 8.583874
+  Element 19 - Element 15 | distance: 6.334611
+  Element 19 - Element 11 | distance: 5.839358
+  Element 19 - Element 13 | distance: 3.112379
+  Element 19 - Element 20 | distance: 4.712208
+  Element 15 - Element 11 | distance: 3.316896
+  Element 15 - Element 13 | distance: 7.693699
+  Element 15 - Element 20 | distance: 6.903289
+  Element 11 - Element 13 | distance: 5.730620
+  Element 11 - Element 20 | distance: 4.128002
+  Element 13 - Element 20 | distance: 2.447611
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.527778
+Objective from scratch: 162.527778
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 45.686445
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 49.524645
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 48.202874
+  Element 19 | coordinates: 5.730000 2.290000 | contribution: 36.913749
+  Element 5 | coordinates: 8.080000 4.730000 | contribution: 32.193122
+  Element 28 | coordinates: 3.990000 7.850000 | contribution: 39.774749
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 36.958210
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 35.801762
+
+Pair distances:
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 19 | distance: 7.834603
+  Element 8 - Element 5 | distance: 4.581539
+  Element 8 - Element 28 | distance: 5.954377
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 0 | distance: 3.855230
+  Element 12 - Element 29 | distance: 2.342413
+  Element 12 - Element 19 | distance: 5.171779
+  Element 12 - Element 5 | distance: 7.574021
+  Element 12 - Element 28 | distance: 5.676592
+  Element 12 - Element 22 | distance: 9.074189
+  Element 12 - Element 0 | distance: 8.871488
+  Element 29 - Element 19 | distance: 3.824788
+  Element 29 - Element 5 | distance: 6.934010
+  Element 29 - Element 28 | distance: 6.782404
+  Element 29 - Element 22 | distance: 9.193955
+  Element 29 - Element 0 | distance: 8.220608
+  Element 19 - Element 5 | distance: 3.387639
+  Element 19 - Element 28 | distance: 5.825908
+  Element 19 - Element 22 | distance: 6.285300
+  Element 19 - Element 0 | distance: 4.583732
+  Element 5 - Element 28 | distance: 5.144171
+  Element 5 - Element 22 | distance: 3.265716
+  Element 5 - Element 0 | distance: 1.306025
+  Element 28 - Element 22 | distance: 4.411916
+  Element 28 - Element 0 | distance: 5.979381
+  Element 22 - Element 0 | distance: 2.985297
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 20
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 172.332339
+Objective from scratch: 172.332339
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.145668
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 45.264873
+  Element 26 | coordinates: 2.190000 6.030000 | contribution: 33.721122
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 43.951434
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 50.908922
+  Element 6 | coordinates: 3.810000 2.500000 | contribution: 38.976615
+  Element 11 | coordinates: 2.070000 6.840000 | contribution: 34.833107
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 43.862937
+
+Pair distances:
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 26 | distance: 8.191911
+  Element 8 - Element 22 | distance: 1.741838
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 6 | distance: 8.836996
+  Element 8 - Element 11 | distance: 8.054024
+  Element 8 - Element 20 | distance: 10.710672
+  Element 1 - Element 26 | distance: 3.580964
+  Element 1 - Element 22 | distance: 6.689133
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 6 | distance: 7.349830
+  Element 1 - Element 11 | distance: 2.764634
+  Element 1 - Element 20 | distance: 6.814485
+  Element 26 - Element 22 | distance: 6.508963
+  Element 26 - Element 10 | distance: 7.348884
+  Element 26 - Element 6 | distance: 3.883980
+  Element 26 - Element 11 | distance: 0.818841
+  Element 26 - Element 20 | distance: 3.387580
+  Element 22 - Element 10 | distance: 6.462391
+  Element 22 - Element 6 | distance: 7.148321
+  Element 22 - Element 11 | distance: 6.431835
+  Element 22 - Element 20 | distance: 8.968952
+  Element 10 - Element 6 | distance: 4.300814
+  Element 10 - Element 11 | distance: 7.959962
+  Element 10 - Element 20 | distance: 7.072383
+  Element 6 - Element 11 | distance: 4.675810
+  Element 6 - Element 20 | distance: 2.780863
+  Element 11 - Element 20 | distance: 4.128002
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 1
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 200.651614
+Objective from scratch: 200.651614
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.072795
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 50.132511
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 54.490943
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 49.561109
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 47.388149
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 49.006390
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.910911
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.740418
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 29 | distance: 10.904696
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 29 | distance: 1.091146
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 29 | distance: 8.240734
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 29 | distance: 5.982416
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 29 | distance: 2.342413
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 29 | distance: 8.958404
+  Element 0 - Element 29 | distance: 8.220608
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 1
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 200.651614
+Objective from scratch: 200.651614
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.072795
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 50.132511
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 54.490943
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 49.561109
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 47.388149
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 49.006390
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.910911
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.740418
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 29 | distance: 10.904696
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 29 | distance: 1.091146
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 29 | distance: 8.240734
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 29 | distance: 5.982416
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 29 | distance: 2.342413
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 29 | distance: 8.958404
+  Element 0 - Element 29 | distance: 8.220608
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 1
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 200.651614
+Objective from scratch: 200.651614
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.072795
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 50.132511
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 54.490943
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 49.561109
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 47.388149
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 49.006390
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.910911
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.740418
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 29 | distance: 10.904696
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 29 | distance: 1.091146
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 29 | distance: 8.240734
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 29 | distance: 5.982416
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 29 | distance: 2.342413
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 29 | distance: 8.958404
+  Element 0 - Element 29 | distance: 8.220608
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 1
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 200.651614
+Objective from scratch: 200.651614
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.072795
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 50.132511
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 54.490943
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 49.561109
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 47.388149
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 49.006390
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.910911
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 45.740418
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 29 | distance: 10.904696
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 29 | distance: 1.091146
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 29 | distance: 8.240734
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 29 | distance: 5.982416
+  Element 12 - Element 9 | distance: 8.035179
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 29 | distance: 2.342413
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 29 | distance: 8.958404
+  Element 0 - Element 29 | distance: 8.220608
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 199.505195
+Objective from scratch: 199.505195
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 54.579173
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 56.347586
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 48.204353
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 52.427092
+  Element 20 | coordinates: 1.050000 2.840000 | contribution: 49.341532
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 44.670336
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 45.557946
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.882371
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 20 | distance: 10.710672
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 0 | distance: 3.855230
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 20 | distance: 2.765014
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 0 | distance: 8.733808
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 20 | distance: 6.814485
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 17 | distance: 1.603652
+  Element 1 - Element 0 | distance: 8.648682
+  Element 10 - Element 20 | distance: 7.072383
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 0 | distance: 3.843761
+  Element 20 - Element 9 | distance: 8.135361
+  Element 20 - Element 17 | distance: 5.259743
+  Element 20 - Element 0 | distance: 8.583874
+  Element 9 - Element 17 | distance: 4.522168
+  Element 9 - Element 0 | distance: 5.737334
+  Element 17 - Element 0 | distance: 8.479682
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 200.322984
+Objective from scratch: 200.322984
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 54.773197
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 50.159321
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 49.630603
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 51.337125
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 54.673718
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 45.493379
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.519105
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 47.059519
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 9 | distance: 4.231335
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 17 | distance: 8.514564
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 27 | distance: 1.091146
+  Element 29 - Element 9 | distance: 8.958404
+  Element 29 - Element 0 | distance: 8.220608
+  Element 29 - Element 17 | distance: 6.761316
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 27 | distance: 9.331372
+  Element 1 - Element 9 | distance: 3.740334
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 17 | distance: 1.603652
+  Element 10 - Element 27 | distance: 6.062384
+  Element 10 - Element 9 | distance: 8.357206
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 17 | distance: 9.326870
+  Element 27 - Element 9 | distance: 9.946597
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 17 | distance: 7.851267
+  Element 9 - Element 0 | distance: 5.737334
+  Element 9 - Element 17 | distance: 4.522168
+  Element 0 - Element 17 | distance: 8.479682
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 197.370275
+Objective from scratch: 197.370275
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 57.170462
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 48.091314
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 46.898762
+  Element 4 | coordinates: 7.950000 3.000000 | contribution: 44.566396
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 49.928518
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 52.422757
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 48.964214
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 46.698127
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 4 | distance: 6.252496
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 9 | distance: 4.231335
+  Element 29 - Element 17 | distance: 6.761316
+  Element 29 - Element 4 | distance: 6.152601
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 27 | distance: 1.091146
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 9 | distance: 8.958404
+  Element 17 - Element 4 | distance: 8.318924
+  Element 17 - Element 1 | distance: 1.603652
+  Element 17 - Element 27 | distance: 7.851267
+  Element 17 - Element 10 | distance: 9.326870
+  Element 17 - Element 9 | distance: 4.522168
+  Element 4 - Element 1 | distance: 8.946597
+  Element 4 - Element 27 | distance: 6.482847
+  Element 4 - Element 10 | distance: 1.470850
+  Element 4 - Element 9 | distance: 6.942082
+  Element 1 - Element 27 | distance: 9.331372
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 9 | distance: 3.740334
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 9 | distance: 9.946597
+  Element 10 - Element 9 | distance: 8.357206
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 199.481944
+Objective from scratch: 199.481944
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 52.193165
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 56.921656
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 50.802660
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 51.010748
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 50.968116
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 45.417948
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 47.690265
+  Element 22 | coordinates: 8.400000 7.980000 | contribution: 43.959329
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 22 | distance: 1.741838
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 22 | distance: 9.975620
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 17 | distance: 1.603652
+  Element 1 - Element 22 | distance: 6.689133
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 17 | distance: 9.326870
+  Element 10 - Element 22 | distance: 6.462391
+  Element 12 - Element 0 | distance: 8.871488
+  Element 12 - Element 17 | distance: 4.883370
+  Element 12 - Element 22 | distance: 9.074189
+  Element 0 - Element 17 | distance: 8.479682
+  Element 0 - Element 22 | distance: 2.985297
+  Element 17 - Element 22 | distance: 7.030861
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 194.610724
+Objective from scratch: 194.610724
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 53.930215
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 51.410588
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 44.091621
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 52.825595
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 46.763224
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 47.656785
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 48.961459
+  Element 9 | coordinates: 5.650000 9.550000 | contribution: 43.581960
+
+Pair distances:
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 12 | distance: 10.814162
+  Element 8 - Element 9 | distance: 4.231335
+  Element 29 - Element 17 | distance: 6.761316
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 1 | distance: 8.240734
+  Element 29 - Element 0 | distance: 8.220608
+  Element 29 - Element 12 | distance: 2.342413
+  Element 29 - Element 9 | distance: 8.958404
+  Element 17 - Element 10 | distance: 9.326870
+  Element 17 - Element 1 | distance: 1.603652
+  Element 17 - Element 0 | distance: 8.479682
+  Element 17 - Element 12 | distance: 4.883370
+  Element 17 - Element 9 | distance: 4.522168
+  Element 10 - Element 1 | distance: 10.110045
+  Element 10 - Element 0 | distance: 3.843761
+  Element 10 - Element 12 | distance: 7.550854
+  Element 10 - Element 9 | distance: 8.357206
+  Element 1 - Element 0 | distance: 8.648682
+  Element 1 - Element 12 | distance: 6.463993
+  Element 1 - Element 9 | distance: 3.740334
+  Element 0 - Element 12 | distance: 8.871488
+  Element 0 - Element 9 | distance: 5.737334
+  Element 12 - Element 9 | distance: 8.035179
+
+============================================================
+Instance: max_div_30_2.txt
+Algorithm: grasp
+Execution: 2
+n: 30
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 199.065945
+Objective from scratch: 199.065945
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 9.840000 8.960000 | contribution: 61.356023
+  Element 27 | coordinates: 2.070000 0.270000 | contribution: 48.037181
+  Element 17 | coordinates: 1.370000 8.090000 | contribution: 47.420721
+  Element 0 | coordinates: 9.320000 5.140000 | contribution: 50.653259
+  Element 1 | coordinates: 1.910000 9.600000 | contribution: 52.354261
+  Element 29 | coordinates: 2.020000 1.360000 | contribution: 43.543330
+  Element 10 | coordinates: 8.000000 1.530000 | contribution: 50.530773
+  Element 12 | coordinates: 0.650000 3.260000 | contribution: 44.236340
+
+Pair distances:
+  Element 8 - Element 27 | distance: 11.657144
+  Element 8 - Element 17 | distance: 8.514564
+  Element 8 - Element 0 | distance: 3.855230
+  Element 8 - Element 1 | distance: 7.955784
+  Element 8 - Element 29 | distance: 10.904696
+  Element 8 - Element 10 | distance: 7.654443
+  Element 8 - Element 12 | distance: 10.814162
+  Element 27 - Element 17 | distance: 7.851267
+  Element 27 - Element 0 | distance: 8.733808
+  Element 27 - Element 1 | distance: 9.331372
+  Element 27 - Element 29 | distance: 1.091146
+  Element 27 - Element 10 | distance: 6.062384
+  Element 27 - Element 12 | distance: 3.310060
+  Element 17 - Element 0 | distance: 8.479682
+  Element 17 - Element 1 | distance: 1.603652
+  Element 17 - Element 29 | distance: 6.761316
+  Element 17 - Element 10 | distance: 9.326870
+  Element 17 - Element 12 | distance: 4.883370
+  Element 0 - Element 1 | distance: 8.648682
+  Element 0 - Element 29 | distance: 8.220608
+  Element 0 - Element 10 | distance: 3.843761
+  Element 0 - Element 12 | distance: 8.871488
+  Element 1 - Element 29 | distance: 8.240734
+  Element 1 - Element 10 | distance: 10.110045
+  Element 1 - Element 12 | distance: 6.463993
+  Element 29 - Element 10 | distance: 5.982416
+  Element 29 - Element 12 | distance: 2.342413
+  Element 10 - Element 12 | distance: 7.550854
+

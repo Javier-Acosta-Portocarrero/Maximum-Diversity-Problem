@@ -94,7 +94,7 @@ int main(int argc, char* argv[]) {
 
     for (int execution = 1; execution <= executions; ++execution) {
       std::vector<MaximumDiversityNeighborhoodExplorer*> explorers;
-      if (algorithm != "greedy") {
+      if (false) {
         explorers.push_back(new MaximumDiversitySwapExplorer());
       }
 
