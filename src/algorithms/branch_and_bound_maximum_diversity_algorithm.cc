@@ -35,13 +35,16 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
   double first_branch_upper_bound = EvaluateBranchBound(first_branch, 0.0, initial_solution);
   double second_branch_upper_bound = EvaluateBranchBound(second_branch, 0.0, initial_solution);
   if (first_branch_upper_bound > current_lower_bound_) {
-    ++amount_of_branches_generated_;
     AddNewBranch(open_branches, first_branch, first_branch_upper_bound, initial_solution);
+  } else {
+    ++amount_of_branches_bound_;
   }
   if (second_branch_upper_bound > current_lower_bound_) {
-    ++amount_of_branches_generated_;
     AddNewBranch(open_branches, second_branch, second_branch_upper_bound, initial_solution);
+  } else {
+    ++amount_of_branches_bound_;
   }
+  amount_of_branches_generated_ += 2;
 
   while (!open_branches.empty()) {
     std::vector<bool> current_solution = open_branches[0].first;
@@ -59,48 +62,57 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
     second_new_branch.push_back(true);
     double first_new_branch_upper_bound = EvaluateBranchBound(first_new_branch, current_solution_bound, initial_solution);
     double second_new_branch_upper_bound = EvaluateBranchBound(second_new_branch, current_solution_bound, initial_solution);
-
+    amount_of_branches_generated_ += 2;
+    
     if (first_new_branch_upper_bound > current_lower_bound_) {
-      if (first_new_branch.size() == static_cast<size_t>(initial_solution.GetElementCount())) {
-        int selected_count = 0;
-        for (size_t i = 0; i < first_new_branch.size(); ++i) {
-          if (first_new_branch[i]) {
-            ++selected_count;
-          }
+      int selected_count = 0;
+      for (size_t i = 0; i < first_new_branch.size(); ++i) {
+        if (first_new_branch[i]) {
+          ++selected_count;
         }
-        // If the new branch is a complete solution and it is better than the current lower bound, we update the best solution and the lower bound.
-        if (selected_count == static_cast<int>(subset_size)) {
-          current_lower_bound_ = first_new_branch_upper_bound;
-          current_best_solution_ = first_new_branch;
-          BoundBranchsIfNeeded(open_branches);
-        }
-      } else {
-        ++amount_of_branches_generated_;
+      }
+      // If the new branch is a complete solution and it is better than the current lower bound, we update the best solution and the lower bound.
+      if (selected_count == static_cast<int>(subset_size)) {
+        current_lower_bound_ = first_new_branch_upper_bound;
+        std::vector<bool> completed_solution = first_new_branch;
+        completed_solution.resize(initial_solution.GetElementCount(), false);
+        current_best_solution_ = completed_solution;
+        BoundBranchsIfNeeded(open_branches);
+      } else if (first_new_branch.size() < static_cast<size_t>(initial_solution.GetElementCount())) {
         AddNewBranch(open_branches, first_new_branch, first_new_branch_upper_bound, initial_solution);
-      }
-    } 
-    if (second_new_branch_upper_bound > current_lower_bound_) {
-      if (second_new_branch.size() == static_cast<size_t>(initial_solution.GetElementCount())) {
-        int selected_count = 0;
-        for (size_t i = 0; i < second_new_branch.size(); ++i) {
-          if (second_new_branch[i]) {
-            ++selected_count;
-          }
-        }
-        // If the new branch is a complete solution and it is better than the current lower bound, we update the best solution and the lower bound.
-        if (selected_count == static_cast<int>(subset_size)) {
-          current_lower_bound_ = second_new_branch_upper_bound;
-          current_best_solution_ = second_new_branch;
-          BoundBranchsIfNeeded(open_branches);
-        }
       } else {
-        ++amount_of_branches_generated_;
-        AddNewBranch(open_branches, second_new_branch, second_new_branch_upper_bound, initial_solution);
+        ++amount_of_branches_bound_;
       }
-    } 
+    } else {
+      ++amount_of_branches_bound_;
+    }
+
+    if (second_new_branch_upper_bound > current_lower_bound_) {
+      int selected_count = 0;
+      for (size_t i = 0; i < second_new_branch.size(); ++i) {
+        if (second_new_branch[i]) {
+          ++selected_count;
+        }
+      }
+      // If the new branch is a complete solution and it is better than the current lower bound, we update the best solution and the lower bound.
+      if (selected_count == static_cast<int>(subset_size)) {
+        current_lower_bound_ = second_new_branch_upper_bound;
+        std::vector<bool> completed_solution = second_new_branch;
+        // Fill the rest of the solution with false to make it a complete solution if its not yet.
+        completed_solution.resize(initial_solution.GetElementCount(), false);
+        current_best_solution_ = completed_solution;
+        BoundBranchsIfNeeded(open_branches);
+      } else if (second_new_branch.size() < static_cast<size_t>(initial_solution.GetElementCount())) {
+        AddNewBranch(open_branches, second_new_branch, second_new_branch_upper_bound, initial_solution);
+      } else {
+        ++amount_of_branches_bound_;
+      }
+    } else {
+      ++amount_of_branches_bound_;
+    }
   }
 
-  std::cout << "Branch and Bound: Explored " << amount_of_branches_explored_ << " branches, generated " << amount_of_branches_generated_ << " branches." << std::endl;
+  std::cout << "Branch and Bound: Explored " << amount_of_branches_explored_ << " branches, generated " << amount_of_branches_generated_ << " branches, bound " << amount_of_branches_bound_ << " branches." << std::endl;
   return new MaximumDiversitySolution(current_best_solution_, initial_solution.GetInstance(), initial_solution.GetSubsetSize());
 }
 
@@ -171,11 +183,11 @@ double BranchAndBoundMaximumDiversityAlgorithm::EvaluateBranchBound(const std::v
  *
  * @param open_branches The list of open branches to consider.
  */
-void BranchAndBoundMaximumDiversityAlgorithm::BoundBranchsIfNeeded(std::vector<std::pair<std::vector<bool>, double>>& open_branches) const {
-  for (int i = 0; i < static_cast<int>(open_branches.size()); ++i) {
+void BranchAndBoundMaximumDiversityAlgorithm::BoundBranchsIfNeeded(std::vector<std::pair<std::vector<bool>, double>>& open_branches) {
+  for (int i = static_cast<int>(open_branches.size()) - 1; i >= 0; --i) {
     if (open_branches[i].second <= current_lower_bound_) {
+      ++amount_of_branches_bound_;
       open_branches.erase(open_branches.begin() + i);
-      --i;  // Adjust index after erasing an element.
     }
   }
 }

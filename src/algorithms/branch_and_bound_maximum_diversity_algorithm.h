@@ -25,8 +25,9 @@ class BranchAndBoundMaximumDiversityAlgorithm {
   std::vector<bool> current_best_solution_;
   unsigned amount_of_branches_explored_ = 0;
   unsigned amount_of_branches_generated_ = 0;
+  unsigned amount_of_branches_bound_ = 0;
 
-  void BoundBranchsIfNeeded(std::vector<std::pair<std::vector<bool>, double>>& open_branches) const;
+  void BoundBranchsIfNeeded(std::vector<std::pair<std::vector<bool>, double>>& open_branches);
   double EvaluateBranchBound(const std::vector<bool>& new_solution, double previous_bound, const MaximumDiversitySolution& solution) const;
   virtual void AddNewBranch(std::vector<std::pair<std::vector<bool>, double>>& open_branches, const std::vector<bool>& new_solution, 
                             double new_branch_bound, const MaximumDiversitySolution& solution) = 0;
