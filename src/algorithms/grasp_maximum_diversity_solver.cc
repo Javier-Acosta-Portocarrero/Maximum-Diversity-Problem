@@ -99,18 +99,31 @@ bool GraspMaximumDiversitySolver::StopCriterion() {
  * @return A vector containing the facility IDs sorted by their costs.
  */
 std::vector<int> GraspMaximumDiversitySolver::GetSortedElementsByDistanceOfCurrentSolution(MaximumDiversitySolution* solution) const {
+  std::vector<int> selected_elements;
+  const MaximumDiversityInstance& instance = solution->GetInstance();
+
+  // Get the elements currently selected in the solution.
+  for (int element_id = 0; element_id < solution->GetElementCount(); ++element_id) {
+    if (solution->IsElementSelected(element_id)) {
+      selected_elements.push_back(element_id);
+    }
+  }
+  // Compute the gravity center of the current solution.
+  std::vector<double> current_center = instance.ComputeCenter(selected_elements);
   std::vector<std::pair<int, double>> elements_with_distance;
-  std::vector<double> contribution_by_element = solution->GetContributionByElement();
+  // Sort non-selected elements by their distance to the current solution center.
   for (int element_id = 0; element_id < solution->GetElementCount(); ++element_id) {
     if (solution->IsElementSelected(element_id)) {
       continue;
     }
-    elements_with_distance.emplace_back(element_id, contribution_by_element[element_id]);
+    double distance_to_center = instance.GetDistanceToPoint(element_id, current_center);
+    elements_with_distance.emplace_back(element_id, distance_to_center);
   }
   std::sort(elements_with_distance.begin(), elements_with_distance.end(),
             [](const std::pair<int, double>& a, const std::pair<int, double>& b) {
               return a.second > b.second;
             });
+
   std::vector<int> elements_by_distance;
   for (const auto& pair : elements_with_distance) {
     elements_by_distance.push_back(pair.first);

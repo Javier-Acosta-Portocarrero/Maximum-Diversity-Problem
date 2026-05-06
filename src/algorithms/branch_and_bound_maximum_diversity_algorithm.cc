@@ -27,6 +27,10 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
   if (subset_size != initial_solution.GetSubsetSize()) {
     throw std::invalid_argument("Invalid subset size.");
   }
+  amount_of_branches_explored_ = 0;
+  amount_of_branches_generated_ = 0;
+  amount_of_branches_bound_ = 0;
+
   current_lower_bound_ = initial_solution.GetObjectiveValue();  
   current_best_solution_ = initial_solution.GetSelectedElements();
   std::vector<std::pair<std::vector<bool>, double>> open_branches;
