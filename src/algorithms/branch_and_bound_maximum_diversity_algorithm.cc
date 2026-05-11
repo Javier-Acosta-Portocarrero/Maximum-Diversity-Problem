@@ -116,7 +116,9 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
     }
   }
 
-  std::cout << "Branch and Bound: Explored " << amount_of_branches_explored_ << " branches, generated " << amount_of_branches_generated_ << " branches, bound " << amount_of_branches_bound_ << " branches." << std::endl;
+  // Basic additional information about the branch and bound execution
+  // std::cout << "Branch and Bound: Explored " << amount_of_branches_explored_ << " branches, generated " << amount_of_branches_generated_ << " branches, bounded " << amount_of_branches_bound_ << " branches" << std::endl;
+  std::cout << "Branch and Bound: Explored " << amount_of_branches_explored_ << " branches, generated " << amount_of_branches_generated_ << " branches" << std::endl;
   return new MaximumDiversitySolution(current_best_solution_, initial_solution.GetInstance(), initial_solution.GetSubsetSize());
 }
 
