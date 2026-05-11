@@ -3,7 +3,7 @@
 // Bachelor's Degree in Computer Engineering
 // Subject: Design and Analysis of Algorithms
 // Course: 3rd
-// Practice 6: Multi-Source Capacitated Facility Location Problem with Customer Incompatibilities
+// Practice 6: Maximum Diversity Problem
 // Author: Javier Acosta Portocarrero
 // Date: 04/04/2026
 // File grasp-maximum-diversity-solver.cc: implementation file.

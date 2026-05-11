@@ -3,10 +3,10 @@
 // Bachelor's Degree in Computer Engineering
 // Subject: Design and Analysis of Algorithms
 // Course: 3rd
-// Practice 6: Multi-Source Capacitated Facility Location Problem with Customer
+// Practice 6: Maximum Diversity Problem
 // Incompatibilities
 // Author: Javier Acosta Portocarrero
-// Date: 10/04/2026
+// Date: 03/05/2026
 // File maximum_diversity_neighborhood_explorer.h: declaration file.
 // Contains the declaration of the MaximumDiversityNeighborhoodExplorer class.
 
