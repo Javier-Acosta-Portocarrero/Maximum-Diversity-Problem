@@ -36,8 +36,8 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
   std::vector<std::pair<std::vector<bool>, double>> open_branches;
   std::vector<bool> first_branch = {false};
   std::vector<bool> second_branch = {true};
-  double first_branch_upper_bound = EvaluateBranchBound(first_branch, 0.0, initial_solution);
-  double second_branch_upper_bound = EvaluateBranchBound(second_branch, 0.0, initial_solution);
+  double first_branch_upper_bound = EvaluateBranchBound(first_branch, initial_solution);
+  double second_branch_upper_bound = EvaluateBranchBound(second_branch, initial_solution);
   if (first_branch_upper_bound > current_lower_bound_) {
     AddNewBranch(open_branches, first_branch, first_branch_upper_bound, initial_solution);
   } else {
@@ -64,8 +64,8 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
     std::vector<bool> second_new_branch = current_solution;
     first_new_branch.push_back(false);
     second_new_branch.push_back(true);
-    double first_new_branch_upper_bound = EvaluateBranchBound(first_new_branch, current_solution_bound, initial_solution);
-    double second_new_branch_upper_bound = EvaluateBranchBound(second_new_branch, current_solution_bound, initial_solution);
+    double first_new_branch_upper_bound = EvaluateBranchBound(first_new_branch, initial_solution);
+    double second_new_branch_upper_bound = EvaluateBranchBound(second_new_branch, initial_solution);
     amount_of_branches_generated_ += 2;
     
     if (first_new_branch_upper_bound > current_lower_bound_) {
@@ -79,6 +79,7 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
       if (selected_count == static_cast<int>(subset_size)) {
         current_lower_bound_ = first_new_branch_upper_bound;
         std::vector<bool> completed_solution = first_new_branch;
+        // Fill the rest of the solution with false to make it a complete solution if its not yet.
         completed_solution.resize(initial_solution.GetElementCount(), false);
         current_best_solution_ = completed_solution;
         BoundBranchsIfNeeded(open_branches);
@@ -126,11 +127,10 @@ MaximumDiversitySolution* BranchAndBoundMaximumDiversityAlgorithm::Solve(const M
  * @brief Evaluates the upper bound for a given branch in the search tree.
  *
  * @param new_solution The solution for which to evaluate the bound.
- * @param previous_bound The bound from the previous level.
  * @param solution The current maximum diversity solution.
  * @return The evaluated upper bound for the given branch.
  */
-double BranchAndBoundMaximumDiversityAlgorithm::EvaluateBranchBound(const std::vector<bool>& new_solution, double previous_bound, const MaximumDiversitySolution& solution) const {
+double BranchAndBoundMaximumDiversityAlgorithm::EvaluateBranchBound(const std::vector<bool>& new_solution, const MaximumDiversitySolution& solution) const {
   const MaximumDiversityInstance& instance = solution.GetInstance();
   int element_count = solution.GetElementCount();
   int subset_size = solution.GetSubsetSize();
