@@ -102,8 +102,8 @@ int main(int argc, char* argv[]) {
       for (int execution = 1; execution <= executions; ++execution) {
         std::vector<MaximumDiversityNeighborhoodExplorer*> explorers;
         // Changing this to false and its possible to do bnb with the greedy solution as initial solution without local searchs.
-        if (false) {
-        //if (algorithm != "greedy") {
+        //if (false) {
+        if (algorithm != "greedy") {
           explorers.push_back(new MaximumDiversitySwapExplorer());
         }
 

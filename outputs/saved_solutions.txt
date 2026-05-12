@@ -105797,3 +105797,4083 @@ Pair distances:
   Element 2 - Element 1 | distance: 5.471535
   Element 3 - Element 1 | distance: 4.926591
 
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 2
+CPU time: 1.000000
+Obejective value: 8.510329
+Objective from scratch: 8.510329
+Selected elements: 2
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 8.510329
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 8.510329
+
+Pair distances:
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 3
+CPU time: 1.000000
+Obejective value: 21.996086
+Objective from scratch: 21.996086
+Selected elements: 3
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 13.485757
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 16.805123
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 13.701292
+
+Pair distances:
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 4
+CPU time: 1.000000
+Obejective value: 40.002258
+Objective from scratch: 40.002258
+Selected elements: 4
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 18.820606
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 21.462224
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 18.771002
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 20.950684
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 18 | distance: 5.190963
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 5
+CPU time: 1.000000
+Obejective value: 63.651679
+Objective from scratch: 63.651679
+Selected elements: 5
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 23.949870
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 26.893109
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 23.822496
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 24.090435
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 28.547448
+
+Pair distances:
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 6
+CPU time: 1.000000
+Obejective value: 91.539889
+Objective from scratch: 91.539889
+Selected elements: 6
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 31.109792
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 30.408908
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 32.007253
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 28.667027
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 31.092770
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 29.794029
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 8
+CPU time: 1.000000
+Obejective value: 162.338014
+Objective from scratch: 162.338014
+Selected elements: 8
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 42.900724
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 39.847350
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 41.156984
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 39.171076
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 39.231411
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 39.429347
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 42.175565
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 40.763571
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 17 - Element 18 | distance: 8.510329
+
+============================================================
+Instance: max_div_20_2.txt
+Algorithm: bnb-lowest
+Execution: 20
+n: 20
+K: 2
+m: 10
+CPU time: 1.000000
+Obejective value: 249.223402
+Objective from scratch: 249.223402
+Selected elements: 10
+Generated nodes: 0
+Feasible: yes
+
+Selected elements detail:
+  Element 1 | coordinates: 3.470000 9.430000 | contribution: 50.561045
+  Element 2 | coordinates: 1.160000 4.470000 | contribution: 49.910825
+  Element 8 | coordinates: 8.570000 8.360000 | contribution: 49.198658
+  Element 9 | coordinates: 1.530000 6.790000 | contribution: 46.807914
+  Element 10 | coordinates: 8.450000 3.420000 | contribution: 51.976233
+  Element 12 | coordinates: 8.780000 7.430000 | contribution: 47.980455
+  Element 13 | coordinates: 1.970000 3.500000 | contribution: 50.378109
+  Element 17 | coordinates: 0.630000 5.960000 | contribution: 50.952661
+  Element 18 | coordinates: 8.670000 3.170000 | contribution: 54.157929
+  Element 19 | coordinates: 7.750000 8.480000 | contribution: 46.522976
+
+Pair distances:
+  Element 1 - Element 2 | distance: 5.471535
+  Element 1 - Element 8 | distance: 5.211036
+  Element 1 - Element 9 | distance: 3.276156
+  Element 1 - Element 10 | distance: 7.805159
+  Element 1 - Element 12 | distance: 5.674161
+  Element 1 - Element 13 | distance: 6.116772
+  Element 1 - Element 17 | distance: 4.484027
+  Element 1 - Element 18 | distance: 8.138034
+  Element 1 - Element 19 | distance: 4.384165
+  Element 2 - Element 8 | distance: 8.369002
+  Element 2 - Element 9 | distance: 2.349319
+  Element 2 - Element 10 | distance: 7.365229
+  Element 2 - Element 12 | distance: 8.174717
+  Element 2 - Element 13 | distance: 1.263725
+  Element 2 - Element 17 | distance: 1.581455
+  Element 2 - Element 18 | distance: 7.621686
+  Element 2 - Element 19 | distance: 7.714156
+  Element 8 - Element 9 | distance: 7.212940
+  Element 8 - Element 10 | distance: 4.941457
+  Element 8 - Element 12 | distance: 0.953415
+  Element 8 - Element 13 | distance: 8.196316
+  Element 8 - Element 17 | distance: 8.294794
+  Element 8 - Element 18 | distance: 5.190963
+  Element 8 - Element 19 | distance: 0.828734
+  Element 9 - Element 10 | distance: 7.696967
+  Element 9 - Element 12 | distance: 7.278193
+  Element 9 - Element 13 | distance: 3.319292
+  Element 9 - Element 17 | distance: 1.224296
+  Element 9 - Element 18 | distance: 8.005248
+  Element 9 - Element 19 | distance: 6.445502
+  Element 10 - Element 12 | distance: 4.023556
+  Element 10 - Element 13 | distance: 6.480494
+  Element 10 - Element 17 | distance: 8.222165
+  Element 10 - Element 18 | distance: 0.333017
+  Element 10 - Element 19 | distance: 5.108190
+  Element 12 - Element 13 | distance: 7.862633
+  Element 12 - Element 17 | distance: 8.281510
+  Element 12 - Element 18 | distance: 4.261420
+  Element 12 - Element 19 | distance: 1.470850
+  Element 13 - Element 17 | distance: 2.801285
+  Element 13 - Element 18 | distance: 6.708122
+  Element 13 - Element 19 | distance: 7.629469
+  Element 17 - Element 18 | distance: 8.510329
+  Element 17 - Element 19 | distance: 7.552801
+  Element 18 - Element 19 | distance: 5.389109
+
